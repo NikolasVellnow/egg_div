@@ -1,0 +1,9 @@
+/work/mnikvell/data/mapped_reads/s17_EKDN230004366-1A_HNHMFDSX5_L4/s17_EKDN230004366-1A_HNHMFDSX5_L4_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s4_EKDN230004353-1A_HNHMFDSX5_L3/s4_EKDN230004353-1A_HNHMFDSX5_L3_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s5_EKDN230004354-1A_HNHMFDSX5_L3/s5_EKDN230004354-1A_HNHMFDSX5_L3_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s6_EKDN230004355-1A_HNHMFDSX5_L3/s6_EKDN230004355-1A_HNHMFDSX5_L3_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s14_EKDN230004363-1A_HNHMFDSX5_L3/s14_EKDN230004363-1A_HNHMFDSX5_L3_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s15_EKDN230004364-1A_HNHMFDSX5_L3/s15_EKDN230004364-1A_HNHMFDSX5_L3_sorted_dedup.bam
+/work/mnikvell/data/mapped_reads/s18_EKDN230004367-1A_HNHMFDSX5_L4/s18_EKDN230004367-1A_HNHMFDSX5_L4_sorted_dedup.bam
+
+
