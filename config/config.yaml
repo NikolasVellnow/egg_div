@@ -1,0 +1,25 @@
+populations:
+    pop1_file: data/bam_list_eggs_pop_gen_unrelated_females.txt
+    pop2_file: data/bam_list_eggs_pop_gen_unrelated_males.txt
+    pop1_name: unrel_f
+    pop2_name: unrel_m
+
+ref_genome: /work/mnikvell/data/genomes/refseq/vertebrate_other/GCF_001522545.3/GCF_001522545.3_Parus_major1.1_genomic.fna
+
+region: NC_031775.1
+
+filters:
+    minMapQ: 30
+    minQ: 20
+    minInd: 0
+    uniqueOnly: 0
+    only_proper_pairs: 1
+    maxDepth: -1
+    minDepth: -1
+    
+
+window:
+    size: 500000
+    step: 10000
+
+threads: 8

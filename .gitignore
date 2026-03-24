@@ -1,0 +1,27 @@
+# Snakemake working directories
+.snakemake/
+data/
+intermediate/
+results/
+log/
+logs/
+
+# Large generated figures
+*.png
+*.pdf
+
+# Conda environments (if local)
+conda/
+*.tar.bz2
+
+# macOS
+.DS_Store
+
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
